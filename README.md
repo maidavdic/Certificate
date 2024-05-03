@@ -29,3 +29,9 @@ So to solve this i will load the files as images instead of PDFs, creating a mor
  <iframe src=" pdf_url.something " style="width: 700px; height:  950px;" frameborder="0"></iframe>
 
  try different sizes for the pdf and see what works for you. thers also alternatives ways to define the frame size. 
+
+
+
+2. Addin top navigation bar with CSS
+   more info about how to do it https://www.w3schools.com/howto/howto_js_topnav.asp
+   
