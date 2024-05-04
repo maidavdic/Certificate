@@ -34,5 +34,5 @@ create a file .HTML
 
 2. Addin top navigation bar with CSS
    more info about how to do it https://www.w3schools.com/howto/howto_js_topnav.asp
-   but before doing that read this https://www.w3schools.com/html/html_css.asp. Basicallly you "can't" mix html and css so you have to create a separate css file.
+   but before doing that read this https://www.w3schools.com/html/html_css.asp. Basicallly you shouldn't mix html and css if you're doing a external css file. So you have to create a separate css file.
    add   <link rel="stylesheet" href="style.css"> to the head in the HTML file.
