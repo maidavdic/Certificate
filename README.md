@@ -5,7 +5,7 @@ because i didn’t feel like using google drive to host my certificates looked a
 I decided to explore alternatives that would allow me to host and display my certificates on a personal website using Github pages. First I found a HTML code to upload a pdf but this solution uses the Docs viewer from google 
 that has the button for downloadning the certificate. The dowloading in itself is not a problem for me but rather the idea that theres a unecesary buttom showing makes it less clean and i want to keep it minemalistic.
 So to solve this i will load the files as images instead of PDFs, creating a more streamlined and minimalist website. Since i m starting this project without previous knowledge about HTML I looked up a skeleton for HTML
-
+create a file .HTML
 
 <!DOCTYPE html>
 <html>
@@ -34,4 +34,4 @@ So to solve this i will load the files as images instead of PDFs, creating a mor
 
 2. Addin top navigation bar with CSS
    more info about how to do it https://www.w3schools.com/howto/howto_js_topnav.asp
-   
+   but before doing that read this https://www.w3schools.com/html/html_css.asp. Basicallly you "can't" mix html and css so you have to create a separate css file.
